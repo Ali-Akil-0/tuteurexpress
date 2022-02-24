@@ -1,0 +1,27 @@
+.Guide_d_utilisation {
+  color: white;
+  font-family: Avenir-light;
+}
+.Guide_d_utilisation:hover {
+  color: lightblue;
+}
+.A_propos {
+  color: white;
+  font-family: Avenir-light;
+}
+.A_propos:hover {
+  color: lightblue;
+}
+.contactez_nous {
+  color: white;
+  font-family: Avenir-light;
+}
+.contactez_nous:hover {
+  color: lightblue;
+}
+p {
+  font-family: Avenir-light;
+}
+h5 {
+  font-family: "Roboto Serif", sans-serif;
+}

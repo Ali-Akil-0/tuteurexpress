@@ -1,0 +1,11 @@
+.localisation__h1 {
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+}
+.localisation__body {
+  background-color: #d8e8f2;
+}
+.localisation__background {
+  background-color: black;
+  margin: 0px;
+}

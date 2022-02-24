@@ -1,0 +1,13 @@
+.localisation__h1 {
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+}
+.video__body {
+  background-color: #d8e8f2;
+  width: 100%;
+  height: 100%;
+}
+.video__background {
+  background-color: #d8e8f2;
+  margin-bottom: -50px;
+}
